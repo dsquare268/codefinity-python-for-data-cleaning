@@ -1,3 +1,4 @@
+#This code removes all duplicates in the data after first occurence. 
 import pandas as pd
 
 def remove_duplicates(df):
