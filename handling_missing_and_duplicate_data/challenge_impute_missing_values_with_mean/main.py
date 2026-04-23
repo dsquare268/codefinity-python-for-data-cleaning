@@ -1,3 +1,4 @@
+#This code replaces the missing values with the mean for the column
 import pandas as pd
 
 def impute_with_mean(df, column):
